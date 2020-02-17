@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "win",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "H:\\opencv4.0.0\\OpenCV-MinGW-Build-OpenCV-4.0.0-alpha-x64\\OpenCV-MinGW-Build-OpenCV-4.0.0-alpha-x64\\include",
+                "H:\\opencv4.0.0\\OpenCV-MinGW-Build-OpenCV-4.0.0-alpha-x64\\OpenCV-MinGW-Build-OpenCV-4.0.0-alpha-x64\\opencv2",
+                "H:\\opencv4.0.0\\OpenCV-MinGW-Build-OpenCV-4.0.0-alpha-x64\\OpenCV-MinGW-Build-OpenCV-4.0.0-alpha-x64\\opencv"                
+            ],
+            "defines": [],
+            "compilerPath": "D:\\Qt\\Qt5.14.1\\Tools\\mingw730_64\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
